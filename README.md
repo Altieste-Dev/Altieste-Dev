@@ -16,7 +16,7 @@ This is my space to share my experiences, and also to acquire more knowledge.
 
 ### Skills:
 
-- [x] HTML | CSS
+- [x] HTML | CSS | JavaScript
 - [x] Java 
 - [x] Tomcat | Jboss EAP | Jboss AS
 - [x] Postgres | MySQL
